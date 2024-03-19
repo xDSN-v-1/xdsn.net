@@ -24,7 +24,6 @@ able to:
            development tools, but also contains emulated zasm, which is
            necessary to build Collapse OS from a non-Collapse OS machine.
 
-Each folder has a README with more details.
 
                        🌍🔗📡
                          
