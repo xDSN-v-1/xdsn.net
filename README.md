@@ -1,23 +1,17 @@
-# Collapse OS
+# XDSN OS
 
 *Bootstrap post-collapse technology*
 
-Collapse OS is a z80 kernel and a collection of programs, tools and
+XDSN_os is a z80 kernel and a collection of programs, tools and
 documentation that allows you to assemble an OS that, when completed, will be
 able to:
 
 1. Run on minimal and improvised machines.
-2. Interface through improvised means (serial, keyboard, display).
+2. Interface through improvised meanserial, keyboard, display).
 3. Edit text files.
 4. Compile assembler source files for a wide range of MCUs and CPUs.
 5. Read and write from a wide range of storage devices.
 6. Replicate itself.
-
-Additionally, the goal of this project is to be as self-contained as possible.
-With a copy of this project, a capable and creative person should be able to
-manage to build and install Collapse OS without external resources (i.e.
-internet) on a machine of her design, built from scavenged parts with low-tech
-tools.
 
 ## Organisation of this repository
 
@@ -32,10 +26,21 @@ tools.
 
 Each folder has a README with more details.
 
-## Status
+                       🌍🔗📡
+                         
+                > XDSN COFFEE_MINER <
+                
+🚀 $DSN Our native token on Polygon  formerly known as MATIC is revolutionizing the world of cryptocurrencies! 🌐
 
-The project unfinished but is progressing well! See [Collapse OS' website][web]
-for more information.
+🔒 **Anti-Censorship and Live Protection**: We're developing an operating system that challenges censorship and safeguards against cyberbullying. 🛡️
 
-[libz80]: https://github.com/ggambetta/libz80
-[web]: https://collapseos.org
+🎓 **Educational Hub**: We share knowledge and promote awareness about blockchain and online security. 💡
+
+🌐 **VPN and VPS Hosting**: We offer secure and anonymous hosting solutions through VPNs and virtual servers. 🌐
+
+Join us on our journey toward a decentralized future! 🌟 #Blockchain #CryptoCommunity
+
+[web]: https://dsn.kalinet.team/wordpress/
+[X]: https://x.com/RobertoGia22281
+[discord]: https://discord.com/invite/hbw2WYk7HQ
+
