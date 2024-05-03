@@ -1,5 +1,5 @@
 # XDSN OS
-
+     🕹️  ATARI RE-MASTER  🏴‍☠️
 *Bootstrap post-collapse technology*
 
 XDSN_os is a z80 kernel and a collection of programs, tools and
